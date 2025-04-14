@@ -9,7 +9,7 @@ API desenvolvida para cadastro e gerenciamento de pedidos.
 Lista todos os pedidos.
 
 **Resposta:**
-![GET /pedidos](readme-img/get.png)
+![GET /pedidos](public/get.png)
 
 ---
 
