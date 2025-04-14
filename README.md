@@ -17,27 +17,27 @@ Lista todos os pedidos.
 Busca um pedido pelo ID.
 
 **Resposta:**
-![GET /pedidos/{id}](readme-img/get1.png)
+![GET /pedidos/{id}](public/get1.png)
 
 ---
 
 ### 🔹 POST `/pedidos`
 Cria um novo pedido.
 
-![POST /pedidos](readme-img/post.png)
+![POST /pedidos](public/post.png)
 
 ---
 
 ### 🔹 PUT `/pedidos/{id}`
 Atualiza um pedido existente.
 
-![PUT /pedidos/{id}](readme-img/put.png)
+![PUT /pedidos/{id}](public/put.png)
 
 ---
 
 ### 🔹 DELETE `/pedidos/{id}`
 
-![DELETE /pedidos/{id}](readme-img/delete.png)
+![DELETE /pedidos/{id}](public/delete.png)
 
 ---
 
