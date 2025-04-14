@@ -51,17 +51,6 @@ Foram realizados 5 testes usando Postman/Insomnia:
 4. **Atualização de pedido** `PUT /pedidos/{id}`
 5. **Exclusão de pedido** `DELETE /pedidos/{id}`
 
-### 📷 Prints
-Cole abaixo os prints de tela indicando cada um dos testes acima.
-
-- [ ] Print 1: GET /pedidos
-- [ ] Print 2: POST /pedidos
-- [ ] Print 3: GET /pedidos/{id}
-- [ ] Print 4: PUT /pedidos/{id}
-- [ ] Print 5: DELETE /pedidos/{id}
-
----
-
 ## 🛠️ Tecnologias
 
 - Java 17
